@@ -1,4 +1,4 @@
-<!DOCTYPE html> 
+<!DOCTYPE html>
 <html lang="ru">
 
 <head>
@@ -14,7 +14,7 @@
 	
 	<!-- Template Basic Images Start -->
 	<meta property="og:image" content="path/to/image.jpg">
-	<link rel="icon" href="img/cat.png">
+	<link rel="icon" href="img/favicon/mainlogo.png">
 	<link rel="apple-touch-icon" sizes="180x180" href="img/favicon/apple-touch-icon-180x180.png">
 	<!-- Template Basic Images End -->
 	
@@ -27,7 +27,7 @@
 
 </head>
 
-<body class="body-bacround">
+<body>
 
 	<!-- Custom HTML -->
 
@@ -37,11 +37,10 @@
  		<div class="row row-stule">
  				<div class="col-lg-12">
  				<div class="navbar-top"><nav class="nav nav-pills nav-fill">
- 						<a class="nav-item nav-link" href="index.html">Главная</a>
+ 						<a class="nav-item nav-link active animated pulse" href="index.html">Главная</a>
  						<a class="nav-item nav-link" href="roli.html">Роли В Discord</a>
- 						<a class="nav-item nav-link" href="new.html">Новости</a>
  						<a class="nav-item nav-link" href="o servere.html">О Сервере</a>
- 						<a class="nav-item nav-link active animated pulse" href="o nas.html">О нас</a>
+ 						<a class="nav-item nav-link" href="o nas.html">О нас</a>
  					</nav>
  				 </div>
  				</div>
@@ -50,37 +49,33 @@
 </header>
 
  <!-- Конец шапки -->
-
 <div class="container">
-	<div class="row row-stule">
+	<div class="row">
 		<div class="col-lg-12">
-			<div class="text-info-o-nas">
-				<span>Сайт был создан для Артема 𝕊𝕟𝟙𝕔𝕜𝕖𝕣𝕤,сайт развивающийся не судите строго :)</span>
+			<div class= text-center text-pading">
+			<span>Примитивная Одминка</span>	
 			</div>
-			<!-- /.text-info-o-nas -->
+			<!-- /.welkome-text-stule -->			
 		</div>
 		<!-- /.col-lg-12 -->
-
-	</div>
-	<!-- /.row -->
-
-	<div class="row row-stule">
 		<div class="col-lg-12">
-			<div class="text-info-o-nas text-center">
-				<span>Создатель <a href="https://www.facebook.com/oleg2002pr">Oleg2002pr</a></span>
+			<div class="img-logo-stile">
+				<img src="img/ds_logo.PNG">
 			</div>
-			<!-- /.text-info-o-nas -->
+			<!-- /.img-logo-stile -->
+		</div>
+		<!-- /.col-lg-4 -->
+		<div class="col-lg-12">
+			<div class="welkome-text-stule text-center text-pading">
+				<span>Вас приведствует:𝕊𝕟𝟙𝕔𝕜𝕖𝕣𝕤</span>
+			</div>
+			<!-- /.welkome-text-stule -->
 		</div>
 		<!-- /.col-lg-12 -->
-		 <div class="col-lg-12 text-center text-pading">
-		 	<img src="img/qr-code.gif">
-		 </div>
 	</div>
 	<!-- /.row -->
-
 </div>
 <!-- /.container -->
-	
 
 
 	
